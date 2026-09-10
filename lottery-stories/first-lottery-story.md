@@ -1,4 +1,4 @@
-trange Stories, Uncanny Numbers, and Gambler's Wit
+ Strange Stories, Uncanny Numbers, and Gambler's Wit
 To fully appreciate the strange world of lotteries and high-stakes chance, one must look at the real-world anomalies that have left mathematicians baffled, investigators suspicious, and players laughing.
 ## The Great Fortune Cookie Anomaly of 2003
 In March 2003, Powerball officials panicked when [110 independent players all won the second-place prize tier](https://www.thelotter.com/blog/stories/weird-lottery-stories/) on the exact same night. Normally, only zero to four players hit this tier per drawing. Fearing a high-tech systemic exploit or insider fraud, investigators launched a massive national inquiry. [1, 2] 
